@@ -1,0 +1,20 @@
+#header {
+    background: url() center center / cover no-repeat ;
+    
+  }
+
+.display-3 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: rgb(189, 25, 178);
+    text-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+
+.lead{
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
