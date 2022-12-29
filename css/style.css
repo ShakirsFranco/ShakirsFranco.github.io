@@ -1,17 +1,17 @@
 #header {
-    background: url() center center / cover no-repeat ;
-    
-  }
+    background: url() center center / cover no-repeat;
+
+}
 
 .display-3 {
     font-size: 3.5rem;
     font-weight: 300;
     line-height: 1.2;
     color: rgb(189, 25, 178);
-    text-shadow: 0 0 10px rgba(0,0,0,.5);
+    text-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
 
-.lead{
+.lead {
     font-size: 1.25rem;
     font-weight: 300;
     line-height: 1.5;
@@ -20,8 +20,8 @@
 }
 
 .card-img-top {
-    width: 100%;
-    height: 15vw;
+    width: 25px;
+    height: 250px;
     object-fit: cover;
 }
 
