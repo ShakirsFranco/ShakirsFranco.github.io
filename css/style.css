@@ -89,12 +89,9 @@ body {
     color: rgb(255, 255, 255);
 }
 
-/* efecto de blanco y negro */
+/* redondear imagen */
 .lightbox img {
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(50%);
-    -moz-filter: grayscale(10%);
-    -ms-filter: grayscale(10%);
-    -o-filter: grayscale(10%);
-}
+    border-style: groove; 
+    border-color: #000000;
 
+}
