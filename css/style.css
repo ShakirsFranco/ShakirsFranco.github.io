@@ -22,9 +22,9 @@
 }
 
 .card-img-top {
-    width: 25px;
+    /*imagen uniforme*/
     height: 410px;
-    object-fit: cover;
+    object-fit: scale-up;
 }
 
 .card {
